@@ -22,7 +22,7 @@ def preprocess(words_file = "../tools/word_data.pkl", authors_file="../tools/ema
         after this, the feaures and labels are put into numpy arrays, which play nice with sklearn functions
 
         4 objects are returned:
-            -- training/testing features
+            -- training/testing featuresz
             -- training/testing labels
 
     """
